@@ -1,5 +1,3 @@
-import re
-
 input = '''    [D]    
 [N] [C]    
 [Z] [M] [P]
