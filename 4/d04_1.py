@@ -17,5 +17,5 @@ for pair in sections.split('\n'):
     second = {x for x in range(int(c), int(d) + 1)}
     if (first <= second) or (second <= first):
         score += 1
-    # print(first, second, score)    
+    # print(first, second, score)
 print(score)

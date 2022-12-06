@@ -29,15 +29,16 @@ def read_list_of_food(foods):
     return elfs_calories
 
 
-def find_most_calories_bug(elfs_calories):
-    most_calories = 0
+def calc_sum_calories(elfs_calories):
+    all_calories = []
     for bug in elfs_calories:
-        if most_calories < sum(bug):
-            most_calories = sum(bug)
-    return most_calories
+        all_calories.append(sum(bug))
+    return all_calories
 
 
 with open('input.txt', 'r') as file:
     foods = file.read()
 elfs_calories = read_list_of_food(foods)
-print(f'most calories: {find_most_calories_bug(elfs_calories)}')
+all_calories = calc_sum_calories(elfs_calories)
+all_calories.sort(reverse=True)
+print(f'three most calories: {sum(all_calories[:3])}')

@@ -16,7 +16,7 @@ row_count = 0
 rows = input.split('\n')
 
 for line in rows:
-    row_count += 1    
+    row_count += 1
     if not (line.strip()[0].isdigit()):
         continue
     stack_count = len(line.strip().split('   '))
@@ -34,8 +34,7 @@ for line in rows[row_count-2::-1]:
             stacks[stack].append(crate)
         stack += 1
 
-pattern = r'(move | from | to )'
-for line in rows[row_count + 1 : ]:
+for line in rows[row_count + 1:]:
     if line == '':
         break
     _, move, _, from_stack, _, to_stack = line.split(' ')
