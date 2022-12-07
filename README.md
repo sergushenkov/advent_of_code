@@ -9,4 +9,5 @@ Advent of Code - 2022
 + [Day 4: Camp Cleanup](4/day_04.txt)
 + [Day 5: Supply Stacks](5/day_05.txt)
 + [Day 6: Tuning Trouble](6/day_06.txt)
++ [Day 7: No Space Left On Device](7/day_07.txt)
 + ...
