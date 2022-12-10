@@ -12,4 +12,5 @@ Advent of Code - 2022
 + [Day 7: No Space Left On Device](7/day_07.txt)
 + [Day 8: Treetop Tree House](8/day_08.txt)
 + [Day 9: Rope Bridge](9/day_09.txt)
++ [Day 10: Cathode-Ray Tube](10/day_10.txt)
 + ...
