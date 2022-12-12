@@ -14,4 +14,5 @@ Advent of Code - 2022
 + [Day 9: Rope Bridge](9/day_09.txt)
 + [Day 10: Cathode-Ray Tube](10/day_10.txt)
 + [Day 11: Monkey in the Middle](11/day_11.txt)
++ [Day 12: Hill Climbing Algorithm](12/day_12.txt)
 + ...
