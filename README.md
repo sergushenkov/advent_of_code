@@ -15,4 +15,5 @@ Advent of Code - 2022
 + [Day 10: Cathode-Ray Tube](10/day_10.txt)
 + [Day 11: Monkey in the Middle](11/day_11.txt)
 + [Day 12: Hill Climbing Algorithm](12/day_12.txt)
++ [Day 13: Distress Signal](13/day_13.txt)
 + ...
