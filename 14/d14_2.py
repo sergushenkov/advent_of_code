@@ -66,7 +66,7 @@ while fall_flag:
 print(sand_count)
 
 # # рисунок
-# for y in range(max_depth + 2):
+# for y in range(max_depth + 2):A
 #     print()
 #     for x in range(min_width - 2, max_width + 4):
 #         print(grid[x][y], end='')
