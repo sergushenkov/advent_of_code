@@ -17,4 +17,5 @@ Advent of Code - 2022
 + [Day 12: Hill Climbing Algorithm](12/day_12.txt)
 + [Day 13: Distress Signal](13/day_13.txt)
 + [Day 14: Regolith Reservoir](14/day_14.txt)
++ [Day 15: Beacon Exclusion Zone](15/day_15.txt)
 + ...
