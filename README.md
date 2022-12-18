@@ -18,4 +18,7 @@ Advent of Code - 2022
 + [Day 13: Distress Signal](13/day_13.txt)
 + [Day 14: Regolith Reservoir](14/day_14.txt)
 + [Day 15: Beacon Exclusion Zone](15/day_15.txt)
++ [Day 16: Proboscidea Volcanium](16/day_16.txt) - задачу вовремя не осилил, моё решение - O(n!), с тестом справляется, но на данных из файла нереально дождаться. Буду думать
++ Day 17 - был в лесу, без ноута и электричества :(
++ [Day 18: Proboscidea Volcanium](18/day_18.txt)
 + ...
