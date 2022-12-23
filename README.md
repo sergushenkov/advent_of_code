@@ -22,5 +22,8 @@ Advent of Code - 2022
 + Day 17 - был в лесу, без ноута и электричества :(
 + [Day 18: Proboscidea Volcanium](18/day_18.txt)
 + [Day 19: Not Enough Minerals](19/day_19.txt) - тоже не осилил, только в варианте O(n!). Есть подозрения что это те самые динамические алгоритмы, про которые я только название знаю
-+ [Day 20: Grove Positioning System](20/day_20.txt)
++ [Day 20: Grove Positioning System](20/day_20.txt) - не осилил, на тестовых норм, ответ для задачи не принимается
++ Day 21 - закрутился, даже не смотрел
++ [Day 22: Monkey Map](22/day_22.txt) - вторую часть не сделал, идея понятна, но алгоритмизировать не получается
++ [Day 23: Unstable Diffusion](23/day_23.txt)
 + ...
