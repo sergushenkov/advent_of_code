@@ -21,6 +21,7 @@ In this example, the calibration values of these four lines are 12, 38, 15, and 
 
 Consider your entire calibration document. What is the sum of all of the calibration values?
 
+[d01_1.py](d01_1.py)
 Your puzzle answer was 56049.
 
 --- Part Two ---
@@ -39,6 +40,7 @@ In this example, the calibration values are 29, 83, 13, 24, 42, 14, and 76. Addi
 
 What is the sum of all of the calibration values?
 
+[d01_2.py](d01_2.py)
 Your puzzle answer was 54530.
 
 Both parts of this puzzle are complete! They provide two gold stars: **
