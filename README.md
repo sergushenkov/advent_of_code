@@ -6,6 +6,8 @@ https://adventofcode.com/
 + [Day 1: Trebuchet?!](2023/01/day_01.md)
 + [Day 2: Cube Conundrum](2023/02/day_02.md)
 + [Day 3: Gear Ratios](2023/03/day_03.md)
++ [Day 4: Scratchcards](2023/04/day_04.md)
+
 
 ##Advent of Code - 2022
 
