@@ -7,6 +7,8 @@ https://adventofcode.com/
 + [Day 2: Cube Conundrum](2023/02/day_02.md)
 + [Day 3: Gear Ratios](2023/03/day_03.md)
 + [Day 4: Scratchcards](2023/04/day_04.md)
++ [Day 5: If You Give A Seed A Fertilizer](2023/05/day_05.md) - вторая часть не сложная по логике, но требует аккуратности в расчетах
++ [Day 6: Wait For It](2023/06/day_06.md)
 
 
 ##Advent of Code - 2022
