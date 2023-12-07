@@ -9,6 +9,7 @@ https://adventofcode.com/
 + [Day 4: Scratchcards](2023/04/day_04.md)
 + [Day 5: If You Give A Seed A Fertilizer](2023/05/day_05.md) - вторая часть не сложная по логике, но требует аккуратности в расчетах
 + [Day 6: Wait For It](2023/06/day_06.md)
++ [Day Day 7: Camel Cards](2023/07/day_07.md) - вторая часть - задумался как обрабатывать джокера, остальное просто
 
 
 ##Advent of Code - 2022
